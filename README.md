@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Lokesh 
-- 👀 I’m interested in Development and Machine learning
-- 🌱 I’m currently learning Full Stack development and frameworks
 - 💞️ I’m looking to collaborate on pretty much anything fun
 - 📫 How to reach me www.linkedin.com/in/lokeshsreecharan
 
